@@ -1,7 +1,7 @@
 #### Hi there! ✨
 I'm a front-end web developer passionate about technology, games, writing, and arts.<br>
 I also dabble in game development in my spare time. 👾<br>
-When I'm not studying or working on my next project, you'd probably find me playing video games, painting minis, or laying around with my dog.
+If I'm not studying or working on my next project, you'll most likely find me playing video games, painting minis, or laying around with my dog.
 
 #### 🔹 Find me at:
 <p align="left">
