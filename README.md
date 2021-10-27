@@ -14,7 +14,7 @@ When I'm not studying or working on my next project, you'd probably find me play
     </a>
     &nbsp;&nbsp;
     <a href="www.linkedin.com/in/thayna-rdg">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:www.linkedin.com/in/thayna-rdg">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/thayna-rdg">
     </a>
 </p>
 <hr>
