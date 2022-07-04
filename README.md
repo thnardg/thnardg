@@ -1,6 +1,6 @@
 #### Hi there! ✨
-I'm a front-end web developer passionate about tech, gaming, writing, and arts.<br>
-I also dabble in game development in my spare time. 👾<br>
+I'm a fullstack developer passionate about tech, gaming, writing, and arts.<br>
+I also dabble in game development in my spare time. Currently working mainly with Unreal Engine 5.👾<br>
 
 #### 🔹 Find me at:
 <p align="left">
