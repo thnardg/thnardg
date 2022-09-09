@@ -1,13 +1,13 @@
 #### Hi there! ✨
-I'm a web developer passionate about tech, gaming, writing, and arts.<br>
-Studying Computer Science at Universidade Católica de Brasília.
+I'm a web developer passionate about tech, gaming, storytelling, and arts.<br>
+Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
 I also dabble in game development in my spare time.👾<br>
 
 <hr>
 
 🇧🇷 Olá! ✨<br>
-Sou uma desenvolvedora web apaixonada por tecnologia, games e arte. <br>
-Cursando a graduação de Ciências da Computação na Universidade Católica de Brasília.<br>
+Sou uma desenvolvedora web apaixonada por tecnologia, games, storytelling, e arte. <br>
+Cursando a graduação de Ciências da Computação na Universidade Católica de Brasília (UCB).<br>
 Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
 
 #### 🔹 Find me at:
