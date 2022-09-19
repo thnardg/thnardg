@@ -17,7 +17,7 @@ Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
     </a>
     &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/thayna-rdg">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/thayna-rdg">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thayna-rdg">
     </a>
 </p>
 
