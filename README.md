@@ -11,7 +11,7 @@ Sou uma desenvolvedora web apaixonada por tecnologia, games, storytelling, e art
 Cursando a graduação de Ciências da Computação na Universidade Católica de Brasília (UCB).<br>
 Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
 
-## 🔹 Find me at:
+#### 🔹 Find me at:
 <p align="left">
     <a href="mailto:thna.rdg@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
@@ -20,9 +20,16 @@ Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
     <a href="https://www.linkedin.com/in/thayna-rdg">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
+    &nbsp;
+    <a href="discordapp.com/users/thayna#9332">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    
+    
 </p>
 
 <hr>
+
 ## Tech & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
