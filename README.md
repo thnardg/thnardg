@@ -1,13 +1,13 @@
 ## About me
 Hi there! ✨ <br>
-I'm a web developer passionate about tech, gaming, storytelling, and arts.<br>
+I'm an iOS developer passionate about tech, gaming, and arts.<br>
 Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
 I also dabble in game development in my spare time.👾<br>
 
 <hr>
 
 🇧🇷 Olá! ✨<br>
-Sou uma desenvolvedora web apaixonada por tecnologia, games, storytelling, e arte. <br>
+Sou uma desenvolvedora iOS apaixonada por tecnologia, games, e arte. <br>
 Cursando a graduação de Ciências da Computação na Universidade Católica de Brasília (UCB).<br>
 Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
 
@@ -30,7 +30,8 @@ Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
 
 <hr>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg">
+    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
