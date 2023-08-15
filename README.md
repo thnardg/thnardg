@@ -27,6 +27,10 @@ Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
     <a href="discordapp.com/users/thayna#9332">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
+    &nbsp;
+    <a href="https://thnardg.itch.io">
+    <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
+    </a>
     
     
 </p>
