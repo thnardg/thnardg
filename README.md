@@ -23,7 +23,6 @@ I also dabble in game development in my spare time.👾<br>
     <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
     </a>
     
-    
 </p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg">
@@ -33,4 +32,6 @@ I also dabble in game development in my spare time.👾<br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg">  
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr)
+<div style="display: inline_block"><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thnardg&show_icons=true&theme=codeSTACKr)
+</div>
