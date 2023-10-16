@@ -1,6 +1,5 @@
 ## About me
-🇺🇸
-Hi there! ✨ <br>
+Hi! ✨ <br>
 I'm an iOS developer passionate about tech, gaming, and arts.<br>
 Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
 I also dabble in game development in my spare time.👾<br>
