@@ -5,15 +5,6 @@ I'm an iOS developer passionate about tech, gaming, and arts.<br>
 Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
 I also dabble in game development in my spare time.👾<br>
 
-−
-
-🇧🇷 
-Olá! ✨<br>
-Sou uma desenvolvedora iOS apaixonada por tecnologia, games, e arte. <br>
-Cursando a graduação de Ciências da Computação na Universidade Católica de Brasília (UCB).<br>
-Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
-
-
 ## Find me at:
 <p align="left">
     <a href="mailto:thna.rdg@gmail.com">
@@ -41,3 +32,5 @@ Também me aventuro em desenvolvimento de jogos no tempo livre.👾<br>
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg">  
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr)
