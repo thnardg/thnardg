@@ -31,7 +31,3 @@ I also dabble in game development in my spare time.👾<br>
    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg">  
 </div>
-
-<div style="display: inline_block"><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thnardg&show_icons=true&theme=codeSTACKr)
-</div>
