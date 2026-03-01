@@ -1,4 +1,9 @@
-## Find me at:
+###Hi! I'm Thayná ✨<br>
+<p align="left">
+    I am a Full Stack Developer and Computer Science graduate. Curious by nature and faithful to practicality, I value clean code, functional solutions, and building beautiful interfaces.
+</p>
+
+### Find me at:
 <p align="left">
     <a href="https://www.linkedin.com/in/thayna-rdg">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
