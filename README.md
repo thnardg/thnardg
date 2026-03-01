@@ -1,4 +1,4 @@
-### Find me at:
+### Hi! ✨
 <p align="left">
     I am a Full Stack Developer and Computer Science graduate. Curious by nature and faithful to practicality, I value clean code, functional solutions, and building beautiful interfaces.
 </p>
