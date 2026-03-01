@@ -1,7 +1,3 @@
-## About me
-Hi! ✨ <br>
-I am a Full Stack Developer and Computer Science graduate driven by practicality and a genuine curiosity for how things work.<br>
-
 ## Find me at:
 <p align="left">
     <a href="https://www.linkedin.com/in/thayna-rdg">
